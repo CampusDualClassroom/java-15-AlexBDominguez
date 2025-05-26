@@ -32,6 +32,7 @@ public class FreshMerchandise extends Merchandise {
 
     public void printSpecificData(){
         System.out.println(getSpecificData());
+
     }
 }
 
